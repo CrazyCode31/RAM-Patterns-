@@ -12,8 +12,11 @@ Checks for patterns in the RAM
 Side note: In the PE file for assembly it is not good to mess around with memory management as Windows signs memory automatically.
 
 <h1>Logical Planning </h1>
-<b>Build a kernal</b>
-<b>Build Patterns to look for</b>
-<b>Try to build a known good pattern list</b>
-<b>Build a logic flow for the process</b>
+<b>Build a kernal
+  
+Build Patterns to look for
+
+Try to build a known good pattern list
+
+Build a logic flow for the process</b>
 
